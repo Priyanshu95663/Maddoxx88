@@ -3,12 +3,12 @@
 
 <table>
   <tr>
-    <td><a href="https://www.linkedin.com/in/sunitshirke/" target="_blank"><img src="linkedin-icon.png" width="65" height="65"/></a></td>
-    <td><a href="https://medium.com/@sunitshirke88"><img src="medium-icon.png" width="75" height="75"/></a></td>
-    <td><a href="https://dribbble.com/sunit_shirke"><img src="dribbble-icon.png" width="75" height="75"/></a></td>
-    <td><a href="https://www.instagram.com/sunit_shirke/"><img src="instagram-icon.png" width="75" height="75"/></a></td>
-    <td><a href="https://www.youtube.com/channel/UC4yM7YN7-8W7AVRBsZzj5vg"><img src="youtube-icon.png" width="75" height="75"/></a></td>
-    <td><a href="https://twitter.com/sunitshirke_88"><img src="twitter-icon.png" width="75" height="75"/></a></td>
+    <td><a href="https://www.linkedin.com/in/sunitshirke/" target="_blank"><img src="https://github.com/Maddoxx88/Maddoxx88/blob/master/linkedin-icon.png" width="65" height="65"/></a></td>
+    <td><a href="https://medium.com/@sunitshirke88"><img src="https://github.com/Maddoxx88/Maddoxx88/blob/master/medium-icon.png" width="75" height="75"/></a></td>
+    <td><a href="https://dribbble.com/sunit_shirke"><img src="https://github.com/Maddoxx88/Maddoxx88/blob/master/dribbble-icon.png" width="75" height="75"/></a></td>
+    <td><a href="https://www.instagram.com/sunit_shirke/"><img src="https://github.com/Maddoxx88/Maddoxx88/blob/master/instagram-icon.png" width="75" height="75"/></a></td>
+    <td><a href="https://www.youtube.com/channel/UC4yM7YN7-8W7AVRBsZzj5vg"><img src="https://github.com/Maddoxx88/Maddoxx88/blob/master/youtube-icon.png" width="75" height="75"/></a></td>
+    <td><a href="https://twitter.com/sunitshirke_88"><img src="https://github.com/Maddoxx88/Maddoxx88/blob/master/twitter-icon.png" width="75" height="75"/></a></td>
   </tr>
 </table>
 
