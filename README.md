@@ -1,4 +1,5 @@
-### Hola 👋
+### Hi, I'm Sunit 👋 :smile:
+<img src="https://github.com/Maddoxx88/Maddoxx88/blob/master/Portfolio%20Design%20GitHub.png" />
 
 - 🔭 Currently working on IoT projects
 
