@@ -23,7 +23,7 @@
 
 - 🔭 I’m currently working on **IoT projects**
 
-- 🌱 I’m currently learning **Gatby, Gridsome**
+- 🌱 I’m currently learning **Gatsby, Gridsome**
 
 - 👯 I’m looking to collaborate on **Full-stack projects**
 
