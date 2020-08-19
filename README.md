@@ -1,12 +1,12 @@
 ### Hi, I'm Sunit 👋 :smile:
 <img src="https://github.com/Maddoxx88/Maddoxx88/blob/master/Portfolio%20Design%20GitHub.png" />
 
-[<img align="left" src="https://github.com/Maddoxx88/Maddoxx88/blob/master/linkedin-icon.png" width="65" />][linkedin]
-[<img align="left" src="https://github.com/Maddoxx88/Maddoxx88/blob/master/medium-icon.png" width="75" />][medium]
-[<img align="left" src="https://github.com/Maddoxx88/Maddoxx88/blob/master/dribbble-icon.png" width="75" />][dribbble]
-[<img align="left" src="https://github.com/Maddoxx88/Maddoxx88/blob/master/twitter-icon.png" width="75" />][twitter]
-[<img align="left" src="https://github.com/Maddoxx88/Maddoxx88/blob/master/youtube-icon.png" width="75" />][youtube]
-[<img align="left" src="https://github.com/Maddoxx88/Maddoxx88/blob/master/instagram-icon.png" width="75" />][instagram]
+[<img align="left" src="https://github.com/Maddoxx88/Maddoxx88/blob/master/linkedin-icon.png" width="48" />][linkedin]
+[<img align="left" src="https://github.com/Maddoxx88/Maddoxx88/blob/master/medium-icon.png" width="52" />][medium]
+[<img align="left" src="https://github.com/Maddoxx88/Maddoxx88/blob/master/dribbble-icon.png" width="52" />][dribbble]
+[<img align="left" src="https://github.com/Maddoxx88/Maddoxx88/blob/master/twitter-icon.png" width="52" />][twitter]
+[<img align="left" src="https://github.com/Maddoxx88/Maddoxx88/blob/master/youtube-icon.png" width="52" />][youtube]
+[<img align="left" src="https://github.com/Maddoxx88/Maddoxx88/blob/master/instagram-icon.png" width="52" />][instagram]
 <br />
 <br />
 <br />
