@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **Flutter, Blockchain, Technical blogs**
 
-- 📫 How to reach me **sunitshirke88@gmail.com**
+- 📫 How to reach me [**sunitshirke_88**][twitter]
 
 - ⚡ Interests - **Astralis/csgo, [UCL, LaLiga, EPL, Bundesliga]/football, India/cricket**
 
@@ -49,6 +49,6 @@
 [linkedin]: https://www.linkedin.com/in/sunitshirke/
 [medium]: https://medium.com/@sunitshirke88
 [dribbble]: https://dribbble.com/sunit_shirke
-[twitter]: https://www.instagram.com/sunit_shirke/
+[twitter]: https://twitter.com/sunitshirke_88
 [youtube]: https://www.youtube.com/channel/UC4yM7YN7-8W7AVRBsZzj5vg
-[instagram]: https://twitter.com/sunitshirke_88
+[instagram]: https://www.instagram.com/sunit_shirke/
