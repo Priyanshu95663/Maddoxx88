@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **IoT projects**
 
-- 🌱 I’m currently learning **Gatsby, Framer**
+- 🌱 I’m currently learning **Gatsby, Vue**
 
 - 👯 I’m looking to collaborate on **Full-stack projects**
 
