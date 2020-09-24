@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at [https://maddoxx88.github.io/](https://maddoxx88.github.io/)
 
-- 📝 I regulary write articles on [https://medium.com/@sunitshirke88](https://medium.com/@sunitshirke88)
+- 📝 I write articles on [https://medium.com/@sunitshirke88](https://medium.com/@sunitshirke88)
 
 - 💬 Ask me about **Flutter, Blockchain, Technical blogs**
 
